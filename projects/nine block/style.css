@@ -1,0 +1,35 @@
+.block {
+    width: 100px;
+    height: 100px;
+    display: inline-block
+  }
+  
+  .blue {
+    background-color: blue;
+  }
+  .red {
+    background-color: red;
+  }
+  .green {
+    background-color: green;
+  }
+  .yellow {
+    background-color: yellow;
+    
+  }
+  .black {
+    background-color: black;
+  }
+  .gray {
+    background-color: #808080;
+    
+  }
+  .orange {
+    background-color: orange;
+  }
+  .brown {
+    background-color: brown;
+  }
+  .maroon {
+    background-color: #800000;
+  }
